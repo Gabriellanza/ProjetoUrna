@@ -1,0 +1,31 @@
+C:\Users\Ana\source\repos\Aula4\Aula4\bin\Debug\Aula4.exe.config
+C:\Users\Ana\source\repos\Aula4\Aula4\bin\Debug\Aula4.exe
+C:\Users\Ana\source\repos\Aula4\Aula4\bin\Debug\Aula4.pdb
+C:\Users\Ana\source\repos\Aula4\Aula4\obj\Debug\Aula4.csprojAssemblyReference.cache
+C:\Users\Ana\source\repos\Aula4\Aula4\obj\Debug\Aula4.Form1.resources
+C:\Users\Ana\source\repos\Aula4\Aula4\obj\Debug\Aula4.Properties.Resources.resources
+C:\Users\Ana\source\repos\Aula4\Aula4\obj\Debug\Aula4.csproj.GenerateResource.cache
+C:\Users\Ana\source\repos\Aula4\Aula4\obj\Debug\Aula4.csproj.CoreCompileInputs.cache
+C:\Users\Ana\source\repos\Aula4\Aula4\obj\Debug\Aula4.exe
+C:\Users\Ana\source\repos\Aula4\Aula4\obj\Debug\Aula4.pdb
+C:\Users\gabriel lanza\Documents\Home\Programação\2 º termo\Visual Studios\Aula4\Aula4\obj\Debug\Aula4.csprojAssemblyReference.cache
+C:\Users\gabriel lanza\Documents\Home\Programação\2 º termo\Visual Studios\Aula4\Aula4\obj\Debug\Aula4.Form1.resources
+C:\Users\gabriel lanza\Documents\Home\Programação\2 º termo\Visual Studios\Aula4\Aula4\obj\Debug\Aula4.Properties.Resources.resources
+C:\Users\gabriel lanza\Documents\Home\Programação\2 º termo\Visual Studios\Aula4\Aula4\obj\Debug\Aula4.csproj.GenerateResource.cache
+C:\Users\gabriel lanza\Documents\Home\Programação\2 º termo\Visual Studios\Aula4\Aula4\obj\Debug\Aula4.csproj.CoreCompileInputs.cache
+C:\Users\gabriel lanza\Documents\Home\Programação\2 º termo\Visual Studios\Aula4\Aula4\obj\Debug\Aula4.exe
+C:\Users\gabriel lanza\Documents\Home\Programação\2 º termo\Visual Studios\Aula4\Aula4\obj\Debug\Aula4.pdb
+C:\Users\gabriel lanza\Documents\Home\Programação\2 º termo\Visual Studios\Aula4\Aula4\bin\Debug\Aula4.exe.config
+C:\Users\gabriel lanza\Documents\Home\Programação\2 º termo\Visual Studios\Aula4\Aula4\bin\Debug\Aula4.exe
+C:\Users\gabriel lanza\Documents\Home\Programação\2 º termo\Visual Studios\Aula4\Aula4\bin\Debug\Aula4.pdb
+C:\Users\gabri\OneDrive\Home\Projetos feitos\Urna\Aula4\Aula4\bin\Debug\Aula4.exe.config
+C:\Users\gabri\OneDrive\Home\Projetos feitos\Urna\Aula4\Aula4\bin\Debug\Aula4.exe
+C:\Users\gabri\OneDrive\Home\Projetos feitos\Urna\Aula4\Aula4\bin\Debug\Aula4.pdb
+C:\Users\gabri\OneDrive\Home\Projetos feitos\Urna\Aula4\Aula4\obj\Debug\Aula4.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Home\Projetos feitos\Urna\Aula4\Aula4\obj\Debug\Aula4.csproj.SuggestedBindingRedirects.cache
+C:\Users\gabri\OneDrive\Home\Projetos feitos\Urna\Aula4\Aula4\obj\Debug\Aula4.Form1.resources
+C:\Users\gabri\OneDrive\Home\Projetos feitos\Urna\Aula4\Aula4\obj\Debug\Aula4.Properties.Resources.resources
+C:\Users\gabri\OneDrive\Home\Projetos feitos\Urna\Aula4\Aula4\obj\Debug\Aula4.csproj.GenerateResource.cache
+C:\Users\gabri\OneDrive\Home\Projetos feitos\Urna\Aula4\Aula4\obj\Debug\Aula4.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Home\Projetos feitos\Urna\Aula4\Aula4\obj\Debug\Aula4.exe
+C:\Users\gabri\OneDrive\Home\Projetos feitos\Urna\Aula4\Aula4\obj\Debug\Aula4.pdb
